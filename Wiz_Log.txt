@@ -1,0 +1,98 @@
+BDE Migration Wizard log
+
+Created at: 24/05/2013 18:17:29
+
+Initializing unit list
+
+Creating backup folder
+
+Allocating temporary folder
+
+Processing file: C:\Andros\BBAgenda\frmPrincipal.pas
+
+1 change(s)
+
+Processing file: C:\Andros\BBAgenda\frmCadastros.pas
+
+12 change(s)
+
+Processing file: C:\Andros\BBAgenda\frmProprietarias.pas
+
+2 change(s)
+
+Processing file: C:\Andros\BBAgenda\frmSenhas.pas
+
+4 change(s)
+
+Processing file: C:\Andros\BBAgenda\frmSenhasAltera.pas
+
+No changes
+
+Processing file: C:\Andros\BBAgenda\frmSobres.pas
+
+2 change(s)
+
+Processing file: C:\Andros\BBAgenda\dmRelatorios.pas
+
+1 change(s)
+
+Processing file: C:\Andros\BBAgenda\frmLogs.pas
+
+No changes
+
+Processing file: C:\Andros\BBAgenda\frmAgendas.pas
+
+No changes
+
+Processing file: C:\Andros\BBAgenda\frmEscalas.pas
+
+No changes
+
+Processing file: C:\Andros\BBAgenda\frmPrincipal.DFM
+
+No changes
+
+Processing file: C:\Andros\BBAgenda\frmCadastros.DFM
+
+11 change(s)
+
+Processing file: C:\Andros\BBAgenda\frmProprietarias.DFM
+
+1 change(s)
+
+Processing file: C:\Andros\BBAgenda\frmSenhas.DFM
+
+3 change(s)
+
+Processing file: C:\Andros\BBAgenda\frmSenhasAltera.DFM
+
+No changes
+
+Processing file: C:\Andros\BBAgenda\frmSobres.DFM
+
+1 change(s)
+
+Processing file: C:\Andros\BBAgenda\dmRelatorios.DFM
+
+No changes
+
+Processing file: C:\Andros\BBAgenda\frmLogs.DFM
+
+No changes
+
+Processing file: C:\Andros\BBAgenda\frmAgendas.DFM
+
+No changes
+
+Processing file: C:\Andros\BBAgenda\frmEscalas.DFM
+
+No changes
+
+Replacing original files with changed versions
+
+Backup file: C:\Andros\BBAgenda\RBackup\RExpert.reu
+
+Removing temporary folder
+
+Replace procedure was performed sucessfully.
+
